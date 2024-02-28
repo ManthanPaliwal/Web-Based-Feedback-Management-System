@@ -5,7 +5,7 @@
 <h4>And No-SQL data base mongoDB is used for database</h4>
 
 <h3>Future Development</h3>
-<p>Inhancement of UI and make batter look and feel</p>
+<p>Inhancement of UI and make better look and feel</p>
 <p>Add more authentication and security logics</p>
 <p>Add some more features for admin and teachers</p>
 
@@ -21,7 +21,7 @@
 ![Screenshot (156)](https://github.com/ManthanPaliwal/Web-Based-Feedback-Management-System/assets/97386932/210255c7-cd17-41aa-88cb-ea8c95d18b46)
 
 <h3 >Student Feedback Page</h3>  
-<p>Here student can give feedback to the perticular teacher of perticular branch so this feedback will save on database so the admin can check how much student is satisfied with the teacher which is recruited by the Administration</p>
+<p>Here student can give feedback to the particular teacher of particular branch so this feedback will save on database so the admin can check how much student is satisfied with the teacher which is recruited by the Administration</p>
 
 ![Screenshot (157)](https://github.com/ManthanPaliwal/Web-Based-Feedback-Management-System/assets/97386932/8946f69d-0a11-4ffe-9a1a-c21742ed6927)
 
@@ -33,7 +33,7 @@
 
 
 <h3 >Feedback Report</h3>
-<p> Teacher Can see over all Feedback which is gave by all the students based on its perticular subject and that subject data is already stored by the Administration while join collage</p>
+<p> Teacher Can see over all Feedback which is gave by all the students based on its particular subject and that subject data is already stored by the Administration while join college</p>
 
 ![Screenshot (160)](https://github.com/ManthanPaliwal/Web-Based-Feedback-Management-System/assets/97386932/c2516ede-08f1-4700-a26a-2968c046d68d)
 
@@ -55,6 +55,6 @@
 ![Screenshot (164)](https://github.com/ManthanPaliwal/Web-Based-Feedback-Management-System/assets/97386932/22aa6e0c-f3e3-40ab-bb72-5dacc496a816)
 
 <h3>View Feedback as Admin</h3>
-<p>The admin can se report of all the teacher report and analise it</p>
+<p>The admin can se report of all the teacher report and analyse it</p>
 
 ![Screenshot (165)](https://github.com/ManthanPaliwal/Web-Based-Feedback-Management-System/assets/97386932/8b3580bf-c907-4ca5-8a81-c7a527135ed1)
