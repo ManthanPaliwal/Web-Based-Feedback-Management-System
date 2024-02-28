@@ -1,4 +1,13 @@
-# Web Based Feedback Management System develop by MERN STACK
+# Web Based Feedback Management System 
+<h2>develop in MERN STACK</h2>
+<h4>Where the Front end is develop by Reactjs with the help of Bootstrap and Some row CSS</h4>
+<h4>And Backend is develop by Node js & Express js</h4>
+<h4>And No-SQL data base mongoDB is used for database</h4>
+
+<h3>Future Development</h3>
+<p>Inhancement of UI and make batter look and feel</p>
+<p>Add more authentication and security logics</p>
+<p>Add some more features for admin and teachers</p>
 
 <h3> Home Page  </h3> 
 <p>Our Home page has three buttons. Each button is for a different group of people to access their own accounts</p>
